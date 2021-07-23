@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968051109673",
+    "project_id": "caloriecheck-650d5",
+    "storage_bucket": "caloriecheck-650d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968051109673:android:f0982396deb524c6e29138",
+        "android_client_info": {
+          "package_name": "com.example.caloriecheck_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968051109673-mpjlio9nos0v8rh2937ukce0c1h1oami.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQXeaEKmV3wJyL3FIKi4woDEbAQhFYw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968051109673-mpjlio9nos0v8rh2937ukce0c1h1oami.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
